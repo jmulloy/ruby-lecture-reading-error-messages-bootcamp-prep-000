@@ -1,3 +1,3 @@
-nam = "hello world"
+"hello world"
 
-hello_world
+nam = hello_world
